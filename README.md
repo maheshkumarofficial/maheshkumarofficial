@@ -1,11 +1,23 @@
 # 💫 About Me:
-🔭 **Hello there! I’m Mahesh Kumar, currently in my 3rd year pursuing B.E. at Sir M. Visvesvaraya Institute of Technology, Bengaluru. A tech enthusiast with a strong interest in Full-stack web developement and Software Development.<br> 
+Hi there! My name is Mahesh kumar.<br>
+
+I'm currently in my 3rd year pursuing B.E. at Sir M. Visvesvaraya Institute of Technology, Bengaluru. A tech enthusiast with a strong interest in Full-stack web developement and Software Development.<br> 
 
 Skilled in JAVA | JavaScript | C | C++ | Python | Web & Software Development | DSA | DBMS | Networking | Operating System | OOP’s | System Designing | Problem Solving | Git & Github | etc.<br> 
 
 I’m technically focused & looking for a career opportunity that is both challenging & exciting as SDE.<br> 
 
-I’m currently working on:**  <br>Improving cloud-based solutions and implementing microservices architecture.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Advanced AWS Services and GraphQL.<br><br>💬 **Ask me about:**  <br>JavaScript, React, Nextjs, Node.js, AWS, and any general software & web development questions.<br><br>⚡ **Fun fact:**  <br>I love coding, I CAN DO THAT ALL THE DAY!.
+I’m currently working on:**  <br>Improving cloud-based solutions and implementing microservices architecture.<br><br>
+
+* 🌍  I'm based in Bengaluru
+* 🖥️  See my portfolio at [My Portfolio Website](http://maheshkumar.live)
+* ✉️  You can contact me at [maheshkr.blr@gmail.com](mailto:maheshkr.blr@gmail.com)
+
+
+* 👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>
+* 🌱 **I’m currently learning:**  <br>Advanced AWS Services and GraphQL.<br><br>
+* 💬 **Ask me about:**  <br>JavaScript, React, Nextjs, Node.js, AWS, and any general software & web development questions.<br><br>
+* ⚡ **Fun fact:**  <br>I love coding, I CAN DO THAT ALL THE DAY!.
 
 
 
