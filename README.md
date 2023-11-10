@@ -7,7 +7,7 @@ Skilled in JAVA | JavaScript | C | C++ | Python | Web & Software Development | D
 
 I’m technically focused & looking for a career opportunity that is both challenging & exciting as SDE.<br> 
 
-I’m currently working on:**  <br>Improving cloud-based solutions and implementing microservices architecture.<br><br>
+I’m currently working on:  <br>Improving cloud-based solutions and implementing microservices architecture.<br><br>
 
 * 🌍  I'm based in Bengaluru
 * 🖥️  See my portfolio at [maheshkumar.live](http://maheshkumar.live)
