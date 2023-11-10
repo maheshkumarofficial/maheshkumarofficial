@@ -10,7 +10,7 @@ I’m technically focused & looking for a career opportunity that is both challe
 I’m currently working on:**  <br>Improving cloud-based solutions and implementing microservices architecture.<br><br>
 
 * 🌍  I'm based in Bengaluru
-* 🖥️  See my portfolio at [My Portfolio Website](http://maheshkumar.live)
+* 🖥️  See my portfolio at [maheshkumar.live](http://maheshkumar.live)
 * ✉️  You can contact me at [maheshkr.blr@gmail.com](mailto:maheshkr.blr@gmail.com)
 
 
