@@ -14,7 +14,7 @@ I’m currently working on:  <br>Improving cloud-based solutions and implementin
 * ✉️  You can contact me at [maheshkr.blr@gmail.com](mailto:maheshkr.blr@gmail.com)
 
 
-* 👯 **I’m looking to collaborate on:  <br>Fullstack projects<br><br>
+* 👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>
 * 🌱 **I’m currently learning:**  <br>Advanced AWS Services and GraphQL.<br><br>
 * 💬 **Ask me about:**  <br>JavaScript, React, Nextjs, Node.js, AWS, and any general software & web development questions.<br><br>
 * ⚡ **Fun fact:**  <br>I love coding, I CAN DO THAT ALL THE DAY!.
