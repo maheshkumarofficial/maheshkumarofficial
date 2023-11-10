@@ -1,6 +1,5 @@
 # 💫 About Me:
-### <div align="center">Hello! My name is Mahesh Kumar, a full-stack freelance developer 👨‍💻 working remotely since 2017🚀</div>  
-
+### <div align="center">Hi! My name is Mahesh Kumar, a full-stack freelance developer 👨‍💻 working remotely since 2017 🚀</div>  
 I'm currently in my 3rd year pursuing B.E. at Sir M. Visvesvaraya Institute of Technology, Bengaluru. A tech enthusiast with a strong interest in Full-stack web developement and Software Development.<br> 
 
 Skilled in JAVA | JavaScript | C | C++ | Python | Web & Software Development | DSA | DBMS | Networking | Operating System | OOP’s | System Designing | Problem Solving | Git & Github | etc.<br> 
@@ -22,7 +21,7 @@ I’m currently working on:  <br>Improving cloud-based solutions and implementin
 <br>
 
 
-## Connect with me  
+# 🌱 Connect with me  
 <div align="center">
 <a href="https://github.com/maheshkumar-live" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -41,7 +40,7 @@ I’m currently working on:  <br>Improving cloud-based solutions and implementin
 
 <br/>  
 
-## My Skill Set  
+# 🌱 My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
@@ -135,7 +134,7 @@ I’m currently working on:  <br>Improving cloud-based solutions and implementin
 
 
 
-## Github Stats  
+# 🌱 Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=maheshkumar-live&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
@@ -149,7 +148,7 @@ I’m currently working on:  <br>Improving cloud-based solutions and implementin
 
 <br>
 
-## ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
