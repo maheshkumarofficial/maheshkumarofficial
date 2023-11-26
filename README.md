@@ -151,15 +151,12 @@ I’m currently working on:  <br>Improving cloud-based solutions and implementin
 
 # 🌱 Github stats :bar_chart:
 
-<h4 align="center">Top langs :smile:</h4>
+<h4 align="center">Top Languages :smile:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshkumar-live&langs_count=10&theme=tokyonight&layout=compact" alt="maheshkumar-live :: Top Langs" /></p>
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=maheshkumar-live&show_icons=true&theme=synthwave" alt="maheshkumar-live :: Profile Stats" /></p>
-
----
-
 
 
 [![](https://visitcount.itsvg.in/api?id=maheshkumar_live&icon=0&color=0)](https://visitcount.itsvg.in)
