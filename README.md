@@ -12,9 +12,9 @@ Skilled in JAVA | JavaScript | C | C++ | Python | Web & Software Development | D
 I’m technically focused & looking for a career opportunity that is both challenging & exciting as SDE.<br> 
 
 I’m currently working on:  <br>Improving cloud-based solutions and implementing microservices architecture.<br><br>
-[![Linkedin: thaianebraga](https://img.shields.io/badge/maheshkumar_live-a843721a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maheshkumar_live-a843721a8/)](https://www.linkedin.com/in/maheshkumar_live-a843721a8/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/maheshkumar-live-a843721a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://[www.linkedin.com/in/maheshkumar_live](https://www.linkedin.com/in/maheshkumar-live/)-a843721a8/)](https://www.linkedin.com/in/maheshkumar-live-a843721a8/)
 ![GitHub followers](https://img.shields.io/github/followers/maheshkumar-live?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=maheshkumar_live.maheshkumar_live)
+![](https://visitor-badge.glitch.me/badge?page_id=maheshkumar-live.maheshkumar-live)
 
 * 🌍  I'm based in Bengaluru
 * 🖥️  See my portfolio at [maheshkumar.live](http://maheshkumar.live)
