@@ -148,7 +148,8 @@ I’m currently working on:  <br>Improving cloud-based solutions and implementin
 </td></tr></table>  
 
 <br/>
-# 🌱 Github stats: :bar_chart:
+
+# 🌱 Github stats :bar_chart:
 
 <h4 align="center">Top langs :smile:</h4>
 
