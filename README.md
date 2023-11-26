@@ -2,7 +2,7 @@
 
 
 
-# <div align="center">💫 नमस्ते (Namaste)🙏🏻, I'm Mahesh Kumar! 🚀</div>  
+# <div align="center">💫 नमस्ते (Namaste)🙏🏻,  I'm Mahesh Kumar! 🚀</div>  
 <p dir="auto"><b>A 3rd year student persuing a Bachelor's degree in Engineering ( B.E.) at <a href="https://www.sirmvit.edu/" rel="nofollow">Sir M. Visvesvaraya Institute of Technology, Bengaluru.</a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="30" data-animated-image="" data-canonical-src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" style="max-width: 100%;"></a> 
 
   
@@ -147,9 +147,15 @@ I’m currently working on:  <br>Improving cloud-based solutions and implementin
 
 </td></tr></table>  
 
-<br/>  
+<br/>
+# 🌱 Github stats: :bar_chart:
 
+<h4 align="center">Top langs :smile:</h4>
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshkumar-live&langs_count=10&theme=tokyonight&layout=compact" alt="maheshkumar-live :: Top Langs" /></p>
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=maheshkumar-live&show_icons=true&theme=synthwave" alt="maheshkumar-live :: Profile Stats" /></p>
 
 ---
 
