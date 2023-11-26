@@ -27,13 +27,13 @@ I’m currently working on:  <br>Improving cloud-based solutions and implementin
 <br>
 
 <p dir="auto"><strong>I'm an night owl</strong></p>
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="🌞 Morning               Sleep            ███████░░░░░░░░░░░░░░░░░░   18.01% 
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="🌞 Morning               Sleep            ████░░░░░░░░░░░░░░░░░░░░░   18.01% 
 🌆 Daytime               Eat              ██████░░░░░░░░░░░░░░░░░░░   25.08% 
-🌃 Evening               Study & Workout  ████░░░░░░░░░░░░░░░░░░░░░   30.55% 
+🌃 Evening               Study & Workout  ███████░░░░░░░░░░░░░░░░░░   30.55% 
 🌙 Night                 Work & think     ███████████████░░░░░░░░░░   46.01%
-💻 Operating Systems:    Mac              █████████████████████████   100.0%"><pre lang="text" class="notranslate"><code>🌞 Morning               Sleep            ███████░░░░░░░░░░░░░░░░░░   18.01% 
+💻 Operating Systems:    Mac              █████████████████████████   100.0%"><pre lang="text" class="notranslate"><code>🌞 Morning               Sleep            ████░░░░░░░░░░░░░░░░░░░░░   18.01% 
 🌆 Daytime               Eat              ██████░░░░░░░░░░░░░░░░░░░   25.08% 
-🌃 Evening               Study & Workout  ████░░░░░░░░░░░░░░░░░░░░░   30.55% 
+🌃 Evening               Study & Workout  ███████░░░░░░░░░░░░░░░░░░   30.55% 
 🌙 Night                 Think & Code     ███████████████░░░░░░░░░░   46.01%
 💻 Operating Systems:    Mac              █████████████████████████   100.0%
 </code></pre></div>
