@@ -3,7 +3,7 @@
 
 
 # <div align="center">💫 नमस्ते (Namaste)🙏🏻, I'm Mahesh Kumar! 🚀</div>  
-<p dir="auto"><b>University Student  <a href="https://www.sirmvit.edu/" rel="nofollow">Sir M. Visvesvaraya Institute of Technology, Bengaluru.</a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="30" data-animated-image="" data-canonical-src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" style="max-width: 100%;"></a> 
+<p dir="auto"><b>A 3rd year student persuing a Bachelor's degree in Engineering ( B.E.) at <a href="https://www.sirmvit.edu/" rel="nofollow">Sir M. Visvesvaraya Institute of Technology, Bengaluru.</a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="30" data-animated-image="" data-canonical-src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" style="max-width: 100%;"></a> 
 
   
 </b></p> A tech enthusiast with a strong interest in Full-stack web developement and Software Development.<br> 
@@ -27,13 +27,13 @@ I’m currently working on:  <br>Improving cloud-based solutions and implementin
 <br>
 
 <p dir="auto"><strong>I'm an night owl</strong></p>
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="🌞 Morning               Sleep            ███████░░░░░░░░░░░░░░░░░░   30.55% 
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="🌞 Morning               Sleep            ███████░░░░░░░░░░░░░░░░░░   18.01% 
 🌆 Daytime               Eat              ██████░░░░░░░░░░░░░░░░░░░   25.08% 
-🌃 Evening               Study & Workout  ████░░░░░░░░░░░░░░░░░░░░░   18.01% 
+🌃 Evening               Study & Workout  ████░░░░░░░░░░░░░░░░░░░░░   30.55% 
 🌙 Night                 Work & think     ███████████████░░░░░░░░░░   46.01%
-💻 Operating Systems:    Mac              █████████████████████████   100.0%"><pre lang="text" class="notranslate"><code>🌞 Morning               Sleep            ███████░░░░░░░░░░░░░░░░░░   30.55% 
+💻 Operating Systems:    Mac              █████████████████████████   100.0%"><pre lang="text" class="notranslate"><code>🌞 Morning               Sleep            ███████░░░░░░░░░░░░░░░░░░   18.01% 
 🌆 Daytime               Eat              ██████░░░░░░░░░░░░░░░░░░░   25.08% 
-🌃 Evening               Study & Workout  ████░░░░░░░░░░░░░░░░░░░░░   18.01% 
+🌃 Evening               Study & Workout  ████░░░░░░░░░░░░░░░░░░░░░   30.55% 
 🌙 Night                 Think & Code     ███████████████░░░░░░░░░░   46.01%
 💻 Operating Systems:    Mac              █████████████████████████   100.0%
 </code></pre></div>
