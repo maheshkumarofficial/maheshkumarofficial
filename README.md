@@ -24,7 +24,8 @@ I’m currently working on:  <br>Improving cloud-based solutions and implementin
 * 💬 **Ask me about:**  <br>JavaScript, React, Nextjs, Node.js, AWS, and any general software & web development questions.<br><br>
 * ⚡ **Fun fact:**  <br>I love coding, I CAN DO THAT ALL THE DAY!
 
-<br>
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+---
 
 <p dir="auto"><strong>I'm an night owl</strong></p>
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="🌞 Morning               Sleep            ████░░░░░░░░░░░░░░░░░░░░░   18.01% 
