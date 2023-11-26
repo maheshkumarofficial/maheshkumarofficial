@@ -1,6 +1,12 @@
-# 💫 About Me:
-### <div align="center">Hi! My name is Mahesh Kumar, a full-stack freelance developer 👨‍💻 working remotely since 2017 🚀</div>  
-I'm currently in my 3rd year pursuing B.E. at Sir M. Visvesvaraya Institute of Technology, Bengaluru. A tech enthusiast with a strong interest in Full-stack web developement and Software Development.<br> 
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"><img align="right" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="230" data-animated-image="" data-canonical-src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="max-width: 100%;"></a></p>
+
+
+
+# <div align="center">💫 नमस्ते (Namaste)🙏🏻, I'm Mahesh Kumar! 🚀</div>  
+<p dir="auto"><b>University Student  <a href="https://www.sirmvit.edu/" rel="nofollow">Sir M. Visvesvaraya Institute of Technology, Bengaluru.</a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="30" data-animated-image="" data-canonical-src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" style="max-width: 100%;"></a> 
+
+  
+</b></p> A tech enthusiast with a strong interest in Full-stack web developement and Software Development.<br> 
 
 Skilled in JAVA | JavaScript | C | C++ | Python | Web & Software Development | DSA | DBMS | Networking | Operating System | OOP’s | System Designing | Problem Solving | Git & Github | etc.<br> 
 
@@ -20,6 +26,17 @@ I’m currently working on:  <br>Improving cloud-based solutions and implementin
 
 <br>
 
+<p dir="auto"><strong>I'm an night owl</strong></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="🌞 Morning               Sleep            ███████░░░░░░░░░░░░░░░░░░   30.55% 
+🌆 Daytime               Eat              ██████░░░░░░░░░░░░░░░░░░░   25.08% 
+🌃 Evening               Study & Workout  ████░░░░░░░░░░░░░░░░░░░░░   18.01% 
+🌙 Night                 Work & think     ███████████████░░░░░░░░░░   46.01%
+💻 Operating Systems:    Mac              █████████████████████████   100.0%"><pre lang="text" class="notranslate"><code>🌞 Morning               Sleep            ███████░░░░░░░░░░░░░░░░░░   30.55% 
+🌆 Daytime               Eat              ██████░░░░░░░░░░░░░░░░░░░   25.08% 
+🌃 Evening               Study & Workout  ████░░░░░░░░░░░░░░░░░░░░░   18.01% 
+🌙 Night                 Think & Code     ███████████████░░░░░░░░░░   46.01%
+💻 Operating Systems:    Mac              █████████████████████████   100.0%
+</code></pre></div>
 
 # 🌱 Connect with me  
 <div align="center">
@@ -132,12 +149,6 @@ I’m currently working on:  <br>Improving cloud-based solutions and implementin
 
 <br/>  
 
-
-
-# 🌱 Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=maheshkumar-live&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
 
 
 ---
