@@ -7,18 +7,44 @@
   
 </b></p> A tech enthusiast with a strong interest in Full-stack web developement and Software Development.<br> 
 
-Skilled in JAVA | JavaScript | C | C++ | Python | Web & Software Development | DSA | DBMS | Networking | Operating System | OOP’s | System Designing | Problem Solving | Git & Github | etc.<br> 
+I am a skilled software developer with expertise in Java, JavaScript, C, C++, and Python. My experience spans web/software development, DSA, Networking, DBMS, OS, AI/ML, cloud computing, microservices, RESTful APIs, CI/CD, DevOps, and Agile. I excel in building scalable, high-performance applications and am adept in both front-end and back-end technologies. <br> 
 
-I’m technically focused & looking for a career opportunity that is both challenging & exciting as SDE.<br> 
+Key Achievements:<br> 
+------------------- <br> 
 
-I’m currently working on:  <br>Improving cloud-based solutions and implementing microservices architecture.<br><br>
-[![Linkedin: thaianebraga](https://img.shields.io/badge/maheshkumar-live-a843721a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://[www.linkedin.com/in/maheshkumar_live](https://www.linkedin.com/in/maheshkumar-live/)-a843721a8/)](https://www.linkedin.com/in/maheshkumar-live-a843721a8/)
-![GitHub followers](https://img.shields.io/github/followers/maheshkumar-live?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=maheshkumar-live.maheshkumar-live)
+* Optimized Cloud-Based Solutions: Improved cloud infrastructure efficiency, resulting in a 30% reduction in latency and a 25% increase in system reliability. <br> 
+
+* Microservices Implementation: Successfully transitioned a monolithic application to a microservices architecture, enhancing scalability and reducing deployment time by 40%. <br> 
+
+* Innovative Projects: Developed a cutting-edge machine learning model that improved prediction accuracy by 15% for a significant client project.<br> 
+
+
+Soft Skills:<br> 
+----------- <br> 
+
+* Problem Solving: Adept at tackling complex technical challenges and implementing innovative solutions. <br> 
+
+* Team Collaboration: Proven ability to work effectively in cross-functional teams, contributing to successful project delivery and fostering a collaborative environment. <br> 
+
+* Adaptability: Demonstrated flexibility and quick learning in rapidly changing environments, ensuring seamless integration of new technologies. <br> 
+
+* Innovation: Driven by a passion for innovation, constantly seeking to explore and implement emerging technologies that push the boundaries of what’s possible. <br> 
+
+* User-Centric Design: Committed to creating solutions that prioritize user experience and deliver impactful results.<br> 
+
+* Impact: Focused on projects that have a meaningful impact on both users and the broader community.<br> 
+ 
+
+Currently focused on enhancing cloud-based solutions and refining microservices architecture, I am eager to apply my expertise in a challenging Full-Stack Web Developer or SDE role. I am driven by a passion for solving complex problems, driving innovation, and contributing to a forward-thinking team.<br>
+
+I am excited about the opportunity to bring my skills to a dynamic environment, where I can contribute to impactful projects and continue to grow as a software professional.<br><br>
+[![Linkedin: thaianebraga](https://img.shields.io/badge/maheshkumarofficial-a843721a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://[www.linkedin.com/in/maheshkumarofficial](https://www.linkedin.com/in/maheshkumarofficial/)-a843721a8/)](https://www.linkedin.com/in/maheshkumarofficial-a843721a8/)
+![GitHub followers](https://img.shields.io/github/followers/maheshkumarofficial?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=maheshkumarofficial.maheshkumarofficial)
 
 * 🌍  I'm based in Bengaluru
-* 🖥️  See my portfolio at [maheshkumar.live](http://maheshkumar.live)
-* ✉️  You can contact me at [maheshkr.blr@gmail.com](mailto:maheshkr.blr@gmail.com)
+* 🖥️  See my portfolio at [maheshkumarofficial](https://maheshkumarofficial.com)
+* ✉️  You can contact me at [hellomaheshkr@gmail.com](mailto:hellomaheshkr@gmail.com)
 
 
 * 👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>
