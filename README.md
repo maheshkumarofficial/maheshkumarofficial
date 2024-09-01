@@ -11,7 +11,7 @@ I am a skilled software developer with expertise in Java, JavaScript, C, C++, an
 
 I excel in building scalable, high-performance applications and am adept in both front-end and back-end technologies. <br> 
 
-Key Achievements:<br> 
+**Key Achievements:**<br> 
 ------------------- <br> 
 
 * Optimized Cloud-Based Solutions: Improved cloud infrastructure efficiency, resulting in a 30% reduction in latency and a 25% increase in system reliability. <br> 
@@ -21,7 +21,7 @@ Key Achievements:<br>
 * Innovative Projects: Developed a cutting-edge machine learning model that improved prediction accuracy by 15% for a significant client project.<br> 
 
 
-Soft Skills:<br> 
+**Soft Skills:**<br> 
 ----------- <br> 
 
 * Problem Solving: Adept at tackling complex technical challenges and implementing innovative solutions. <br> 
@@ -45,13 +45,13 @@ I am excited about the opportunity to bring my skills to a dynamic environment, 
 ![](https://visitor-badge.glitch.me/badge?page_id=maheshkumarofficial.maheshkumarofficial)
 
 * 🌍  I'm based in Bengaluru
-* 🖥️  See my portfolio at [maheshkumarofficial](https://maheshkumarofficial.com)
+* 🖥️  See my portfolio at [maheshkumarofficial.com](https://maheshkumarofficial.com)
 * ✉️  You can contact me at [hellomaheshkr@gmail.com](mailto:hellomaheshkr@gmail.com)
 
 
 * 👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>
 * 🌱 **I’m currently learning:**  <br>Advanced AWS Services and GraphQL.<br><br>
-* 💬 **Ask me about:**  <br>JavaScript, React, Nextjs, Node.js, AWS, and any general software & web development questions.<br><br>
+* 💬 **Ask me about:**  <br>JavaScript, Reactjs, Nextjs, React Native, Node.js, AWS, and any general software/web development questions.<br><br>
 * ⚡ **Fun fact:**  <br>I love coding, I CAN DO THAT ALL THE DAY!
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!😊</em>
