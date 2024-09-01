@@ -37,7 +37,9 @@ I excel in building scalable, high-performance applications and am adept in both
 * Impact: Focused on projects that have a meaningful impact on both users and the broader community.<br> 
  
 
-Currently focused on enhancing cloud-based solutions and refining microservices architecture, I am eager to apply my expertise in a challenging Full-Stack Web Developer or SDE role. I am driven by a passion for solving complex problems, driving innovation, and contributing to a forward-thinking team.<br>
+Currently focused on enhancing cloud-based solutions and refining microservices architecture, I am eager to apply my expertise in a challenging Full-Stack Web Developer or SDE role. <br>
+
+I am driven by a passion for solving complex problems, driving innovation, and contributing to a forward-thinking team.<br>
 
 I am excited about the opportunity to bring my skills to a dynamic environment, where I can contribute to impactful projects and continue to grow as a software professional.<br><br>
 [![Linkedin: thaianebraga](https://img.shields.io/badge/maheshkumarofficial-a843721a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://[www.linkedin.com/in/maheshkumarofficial](https://www.linkedin.com/in/maheshkumarofficial/)-a843721a8/)](https://www.linkedin.com/in/maheshkumarofficial-a843721a8/)
